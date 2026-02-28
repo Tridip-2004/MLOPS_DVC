@@ -1,0 +1,5 @@
+1. create a github repo and clone it in local
+2. create dvccode.py and add the code to it.
+3. Do a git-add-cmmit push before initializing dvccode
+4. Now we do dvc init(creates .dvcignore,.dvc)
+5. 
